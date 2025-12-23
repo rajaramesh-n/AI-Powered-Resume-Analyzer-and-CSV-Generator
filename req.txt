@@ -1,0 +1,11 @@
+streamlit
+pandas
+dotenv
+pymupdf
+python-docx
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain_openai
+langchain_google_genai  
